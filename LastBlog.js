@@ -364,7 +364,7 @@ AI technology is reshaping how marketers engage with their target audience</p>
     <h2 style="color: #333;">Sustainability Solutions: Technology for a Greener Future</h2>
     <p  class= "mt-3 mb-3">Technological innovations are driving sustainability efforts with solutions such as renewable energy, smart grid systems, and carbon capture technologies. By leveraging tech innovations, we can address environmental challenges and work towards a more sustainable future.</p>
 <div style="height: 400px;">
-    <img src="images/lab.jpg" alt="Featured Image" style="width: 100%; height: 100%; margin: 10px 0;" class="mb-2" />
+    <img src="images/Lab.jpg" alt="Featured Image" style="width: 100%; height: 100%; margin: 10px 0;" class="mb-2" />
 </div>
 </div>
 `
