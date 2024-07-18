@@ -139,22 +139,21 @@ AI technology is reshaping how marketers engage with their target audience</p>
 
             
             
-            <div style="width: 35%; ">
-    <div class="relative min-w-full max-w-full h-[2232px] mq750:min-w-full mq1050:flex-1 mq450:h-auto mq450:min-h-[2232]">
-        <div class="absolute top-0 left-0 w-full rounded-t-none rounded-b-lg bg-neutral-n10 overflow-hidden flex flex-col items-start justify-start pt-0 px-0 pb-[7px] box-border">
-            <div class="self-stretch rounded-t-none rounded-b-lg bg-neutral-n0 overflow-hidden flex flex-col items-start justify-start p-4 box-border gap-[24px]">
-                <div class="w-full bg-neutral-n0 flex flex-row flex-wrap items-start justify-start py-0 px-4 box-border gap-[10px_8px]">
-                    <div class="flex-1 bg-neutral-n0 flex flex-col items-start justify-start pt-8 px-8 pb-6 box-border gap-[18px] min-w-[72px]">
-                        <div class="flex flex-row items-start justify-start gap-[4px]">
-                            <div class="relative leading-[24px] font-medium inline-block min-w-[87px]">
-                                Plagiarism
-                            </div>
-                            <img class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="images/vector1.png" />
-                        </div>
-                        <div class="self-stretch flex flex-row items-start justify-end py-0 pr-0.5 pl-[2px] text-center text-success-s300">
-                            <div class="h-20 flex-1 flex flex-col items-center justify-center relative">
-<div class="circular-progressbar" style="width: 100px; height: 100px; margin-right: 20px;">
-    <svg viewBox="0 0 100 100">
+                <div style="width: 35%;">
+        <div style="position: relative; width: 100%; max-width: 100%; min-height: 2232px;">
+            <div style="position: absolute; top: 0; left: 0; width: 100%; border-radius: 0 0 10px 10px; background-color: #f5f5f5; overflow: hidden; display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start; padding-bottom: 7px; box-sizing: border-box;">
+                <div style="width: 100%; border-radius: 0 0 10px 10px; background-color: #ffffff; overflow: hidden; display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start; padding: 16px; box-sizing: border-box; gap: 24px;">
+                    <div style="width: 100%; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; padding: 0 16px; box-sizing: border-box; gap: 10px 8px;">
+                        <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start; box-sizing: border-box; gap: 18px; min-width: 72px; padding:5px">
+                            <div style="display: flex;flex-direction: column;   align-items: center; gap: 10px;">
+                                                               <div style="line-height: 24px; font-weight: 500; display: flex; align-items: center;">
+                                    Plagiarism
+                                    <img class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="images/vector1.png" style="margin-left: 4px;" />
+                                </div>
+
+                                
+                                <div style="width: 100px; height: 100px;">
+                                    <svg viewBox="0 0 100 100">
         <!-- Background Circle -->
         <circle class="progressbar-path" cx="50" cy="50" r="40" stroke="#ccc" stroke-width="6" fill="none"></circle>
         <!-- Progress Circle for 97% (Green) -->
@@ -164,36 +163,31 @@ AI technology is reshaping how marketers engage with their target audience</p>
         <text class="progressbar-text" x="50" y="50" style="fill: green; font-size: 20px;" text-anchor="middle"
             dominant-baseline="middle">97%</text>
     </svg>
-</div>
 
+                                </div>
+                            </div>
+                        </div>
+                        <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start; padding: 32px; box-sizing: border-box; gap: 18px; min-width: 72px;">
+                            <div style="display: flex;flex-direction: column;  align-items: center; gap: 10px;">
+                                                               <div style="line-height: 24px; font-weight: 500; display: flex; align-items: center;">
+                                    Unique
+                                    <img class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="images/vector1.png" style="margin-left: 4px;" />
+                                </div>
+
+                                <div style="width: 100px; height: 100px;">
+                                    <svg viewBox="0 0 100 100" style="display: inline-block; vertical-align: middle;">
+                                        <!-- Background Circle -->
+                                        <circle cx="50" cy="50" r="40" stroke="#ccc" stroke-width="6" fill="none"></circle>
+                                        <!-- Progress Circle for 3% (Red) -->
+                                        <circle cx="50" cy="50" r="40" stroke="red" stroke-width="6" fill="none" stroke-dasharray="251.2" stroke-dashoffset="235.4"></circle>
+                                        <!-- Percentage Text for 3% (Red) -->
+                                        <text x="50" y="50" style="fill: red; font-size: 20px;" text-anchor="middle" dominant-baseline="middle">3%</text>
+                                    </svg>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="flex-[0.7414] bg-neutral-n0 flex flex-col items-end justify-start pt-8 px-[47px] pb-6 box-border gap-[18px] min-w-[72px]">
-                        <div class="flex flex-row items-start justify-start gap-[4px]">
-                            <div class="relative leading-[24px] font-medium inline-block min-w-[57px]">
-                                Unique
-                            </div>
-                            <img class="h-6 w-6 relative overflow-hidden shrink-0 min-h-[24px]" alt="" src="images/vector1.png" />
-                        </div>
-                        <div class="self-stretch flex flex-row items-start justify-end py-0 pr-0.5 pl-[2px] text-center text-success-s300">
-                            <div class="h-20 flex-1 flex flex-col items-center justify-center relative">
-<div class="circular-progressbar" style="width: 100px; height: 100px;">
-    <svg viewBox="0 0 100 100">
-        <!-- Background Circle -->
-        <circle class="progressbar-path" cx="50" cy="50" r="40" stroke="#ccc" stroke-width="6" fill="none"></circle>
-        <!-- Progress Circle for 3% (Red) -->
-        <circle class="progressbar-circle" cx="50" cy="50" r="40" stroke="red" stroke-width="6" fill="none"
-            stroke-dasharray="251.2" stroke-dashoffset="235.4"></circle>
-        <!-- Percentage Text for 3% (Red) -->
-        <text class="progressbar-text" x="50" y="50" style="fill: red; font-size: 20px;" text-anchor="middle"
-            dominant-baseline="middle">3%</text>
-    </svg>
-</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="self-stretch rounded-lg bg-neutral-n10 overflow-hidden flex flex-row flex-wrap items-start justify-start p-4 gap-[24px_22px]">
                     <div class="flex-1 relative leading-[24px] inline-block min-w-[116px]">
                         1 match from 1 source
